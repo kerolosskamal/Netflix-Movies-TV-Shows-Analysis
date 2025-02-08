@@ -29,7 +29,7 @@ This visualization showcases the most prolific directors on Netflix. It highligh
 -Top Producing Countries:
 This chart maps out the countries that produce the most content on Netflix. It reflects the global diversity of the platform's offerings and can indicate the regions with strong entertainment industries.
 
- -Map Page: 
+🗺 Map Page: 
 A visual representation of the top producing countries for Netflix content.
 
 I’m proud of the insights and visualizations that this project brought to life, aiding in understanding Netflix’s diverse and dynamic content library. Thank you to Uneeq Interns for providing this amazing learning experience! 
