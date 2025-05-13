@@ -1,9 +1,9 @@
 # Netflix-Movies-TV-Shows-Analysis
 As part of my internship at Uneeq Interns, I had the incredible opportunity to work on a comprehensive Power BI project analyzing Netflix movies and TV shows. Here’s a glimpse of what I accomplished:
 
-🌟 Home Page: A user-friendly navigator to seamlessly explore the insights.
+## 🌟 Home Page: A user-friendly navigator to seamlessly explore the insights.
 
-📈 Report Page:
+## 📈 Report Page:
 
 Business Metrics:
 Total Titles
@@ -26,7 +26,9 @@ This visualization showcases the most prolific directors on Netflix. It highligh
 -Top Producing Countries:
 This chart maps out the countries that produce the most content on Netflix. It reflects the global diversity of the platform's offerings and can indicate the regions with strong entertainment industries.
 
-📝 Details Page: 
+![Report](https://github.com/user-attachments/assets/862b23f0-6295-460d-9b54-343b00874f33)
+
+## 📝 Details Page: 
 -Global Map of Shows By country:
 A visual representation of the top producing countries for Netflix content.
 
@@ -38,4 +40,6 @@ It helps you understand which genres dominate the Netflix content library. It pr
 
 I’m proud of the insights and visualizations that this project brought to life, aiding in understanding Netflix’s diverse and dynamic content library. 
 
+
+![Details](https://github.com/user-attachments/assets/683cfb7a-68ad-4cae-99e9-0f7e3324f972)
 
